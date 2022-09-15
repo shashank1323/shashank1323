@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shashankcyraxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashankcyraxi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vadigesrishashank" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadigesrishashank" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/srishashank-v-431788223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vadigesrishashank" height="30" width="40" /></a>
 <a href="https://instagram.com/shashank.cyraxi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shashank.cyraxi" height="30" width="40" /></a>
 <a href="https://medium.com/shashankvadige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="shashankvadige" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/shashankvadige" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="shashankvadige" height="30" width="40" /></a>
